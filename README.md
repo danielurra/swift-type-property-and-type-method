@@ -4,7 +4,7 @@ Type-property and Type-method
 Type-properties and Type-methods are defined by using the `"static"` **keyword**<br>
 These are properties and methods only accessible from the data type, that means that you don't have <br>
 to first create an instance of that type.<br>
-## Animated Gif
+## Type-property example - animated Gif
 ![savings](https://github.com/danielurra/swift-type-property-and-type-method/assets/51704179/aaf14e75-ccd5-436c-ba59-659c18f52dcf)
 ## Grab the code
 ```swift
