@@ -1,7 +1,7 @@
 # swift-type-property-and-type-method
 Type-property and Type-method
 ## The static keyword
-type-properties and type-methods are defined by using the `"static"`<br>
+type-properties and type-methods are defined by using the `"static"` **keyword**<br>
 These are properties and methods only accessible from the data type, that means that you don't have <br>
 to first create an instance of that type.<br>
 ## Animated Gif
